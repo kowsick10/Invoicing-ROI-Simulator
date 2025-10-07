@@ -8,7 +8,7 @@ A stunning full-stack web application to calculate ROI for invoicing automation 
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
 
 ## 🌟 **Live Demo**
-🔗 **[Try it Live](https://your-deployed-url.vercel.app)**
+🔗 **[Try it Live](https://kowsick10.github.io/Invoicing-ROI-Simulator/)**
 
 ## ✨ **Features**
 
